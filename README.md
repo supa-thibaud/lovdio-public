@@ -1,8 +1,9 @@
 # lovdio_public
 
 Public home for small open tools we use around [Lovdio](https://lovdio.com) —
-the romantic audio stories site — and a few sister projects like
-[Neverending](https://neverending.com).
+the romantic audio stories site — plus related projects from
+[Neverending](https://neverending.ai), the company behind Lovdio
+(including [Supafriends](https://supafriends.com), a romance chatbot platform).
 
 The repo also serves a tiny landing page via GitHub Pages
 (see [`index.html`](./index.html)).
@@ -27,4 +28,5 @@ pip install pydub
 ## Links
 
 - Main site → https://lovdio.com
-- Sister project → https://neverending.com
+- Parent company → https://neverending.ai
+- Related project → https://supafriends.com
